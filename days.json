@@ -1,0 +1,26 @@
+[
+  {
+    "id": "family-snowman",
+    "date": "2026-10-08",
+    "visualStyle": "snowfall",
+    "title": "A little snowman, holding everyone close",
+    "body": "If home could gather the whole family into one quiet picture, I think it might look like this: soft snow, warm hearts, and a little snowman keeping watch. Wherever each of you is today, you belong in the same circle of love.",
+    "familyNotes": [
+      { "from": "Mama", "message": "My dear, wherever life takes you, my love goes with you. I hope you remember that you can always carry a little piece of home in your heart, and that you are loved more than any distance could change." },
+      { "from": "Abbu", "message": "My dear, keep going at your own pace and keep faith in the person you are becoming. Whatever the day brings, you have a family that believes in you and is always proud to call you ours. I love you." },
+      { "from": "Daddy", "message": "My dear granddaughter, I’m sending you all my love. Thinking of you brings warmth to my heart. Keep a little room for laughter and hope; your grandfather is always cheering you on." }
+    ]
+  },
+  {
+    "id": "family-chinar",
+    "date": "2026-10-08",
+    "visualStyle": "chinar",
+    "title": "Under the chinar, there is room for everyone",
+    "body": "Some love is loud, and some is the quiet way sisters keep showing up for one another. This little chinar postcard is for the sisters and the newest little person making the family tree grow another branch.",
+    "familyNotes": [
+      { "from": "Duha", "message": "Sister, no matter how busy life gets, there will always be a place for you in my heart. I hope you find little reasons to smile today, and remember that you never have to face a hard day all by yourself. I love you." },
+      { "from": "Maira", "message": "My lovely sister, I’m sending you a hug from here. Being Chunnu’s mama has filled my heart in a whole new way, and I wish I could share every little bit of this joy with you. Please take good care of yourself, too. I love you so much." },
+      { "from": "Chunnu", "message": "Hi Auntie! I’m still brand new, so I don’t have many words yet. For now, imagine a tiny cuddle and the biggest little love being sent all the way to you. I can’t wait for all the stories, smiles, and special moments we’ll share as I grow." }
+    ]
+  }
+]

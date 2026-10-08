@@ -1,0 +1,1 @@
+export function init(el) { el.innerHTML = `<div class="scene dusk-scene" aria-hidden="true"><div class="dusk-moon"></div><div class="dusk-ridge"></div><div class="town">${Array.from({length:10},(_,i)=>`<div class="house h${i%4}" style="--i:${i}"><i></i><i></i><i></i></div>`).join('')}</div><div class="minaret"><i></i></div></div>`; }

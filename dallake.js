@@ -1,0 +1,1 @@
+export function init(el) { el.innerHTML = `<div class="scene lake-scene" aria-hidden="true"><div class="lake-sky"><span class="lake-sun"></span><div class="lake-mountain"></div></div><div class="water"><i></i><i></i><i></i><i></i><i></i><span class="lotus">✿</span><span class="shikara"><b></b></span></div></div>`; }
